@@ -191,21 +191,50 @@
 
 // ==========================================================
 
-let day = 3;
+// let day = 3;
 
-switch (day) {
-  case 1:
-    console.log("Monday");
-    break;
+// switch (day) {
+//   case 1:
+//     console.log("Monday");
+//     break;
 
-  case 2:
-    console.log("Tuesday");
-    break;
+//   case 2:
+//     console.log("Tuesday");
+//     break;
 
-  case 3:
-    console.log("Wednesday");
-    break;
+//   case 3:
+//     console.log("Wednesday");
+//     break;
 
-  default:
-    console.log("Invalid");
-}
+//   default:
+//     console.log("Invalid");
+// }
+
+
+// ======================================================
+
+// Array
+
+
+// let marks:number[] = [12,22,3,3,4,55,6]
+// console.log(marks)
+// console.log(typeof marks)
+
+
+// =======================================================================
+
+
+// let student : {
+//     name:string;
+//     age:number;
+// } = {
+//     name:"Pritam",
+//     age: 23
+// }
+
+
+// console.log(student.name)
+// console.log(student.age)
+
+
+// =======================================================================
