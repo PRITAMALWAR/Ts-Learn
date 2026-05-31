@@ -117,10 +117,22 @@
 // console.log(marks)
 // console.log(typeof marks)
 // =======================================================================
-let student = {
-    name: "Pritam",
-    age: 23
-};
-console.log(student.name);
-console.log(student.age);
+// let student : {
+//     name:string;
+//     age:number;
+// } = {
+//     name:"Pritam",
+//     age: 23
+// }
+// console.log(student.name)
+// console.log(student.age)
 // =======================================================================
+// Union Type
+// let id : number | string = 1001;
+// id = "ankit"
+// console.log(id)
+// Functions + Union Types
+function printId(id) {
+    console.log(id);
+}
+printId("Ram");

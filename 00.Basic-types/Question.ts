@@ -238,3 +238,19 @@
 
 
 // =======================================================================
+
+// Union Type
+
+// let id : number | string = 1001;
+// id = "ankit"
+// console.log(id)
+
+
+// Functions + Union Types
+
+
+function printId(id : number | string) : void{
+    console.log(id)
+}
+
+printId("Ram")
