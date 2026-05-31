@@ -246,11 +246,17 @@
 // console.log(id)
 
 
+// =======================================================================
+
+
+
 // Functions + Union Types
 
 
-function printId(id : number | string) : void{
-    console.log(id)
-}
+// function printId(id : number | string) : void{
+//     console.log(id)
+// }
 
-printId("Ram")
+// printId("Ram")
+
+// =======================================================================
