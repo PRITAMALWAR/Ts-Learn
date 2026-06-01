@@ -22,8 +22,8 @@
 
 
 
-let value : unknown = "Hello"
+// let value : unknown = "Hello"
 
-if(typeof value == "string"){
-    console.log(value.length)
-}
+// if(typeof value == "string"){
+//     console.log(value.length)
+// }

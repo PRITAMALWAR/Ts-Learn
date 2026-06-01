@@ -6,25 +6,10 @@
 //     name:"ankit",
 //     age:23
 // }
-// console.log(user)
-// console.log(user.name);
-// ===============================
-// Example 2: Optional Property
-// const user: {
-//   name: string;
-//   age?: number;
-// } = {
-//   name: "Amit"
-// };
-// user.age = 10;
-// console.log(user.name);
-// console.log(user.age);
-// ===============================
-const employee = {
-    name: "Rahul",
-    address: {
-        city: "Jaipur",
-        pincode: 302001
-    }
+let obj = {
+    id: 201,
+    name: "rohit",
+    age: 20,
+    role: "manager"
 };
-console.log(employee.address.city);
+console.log(obj);
